@@ -7,11 +7,12 @@ Kullanıcılar blog gönderileri **oluşturabilir**, **düzenleyebilir** ve **si
 
 ## 🚀 **Canlı Demo**
 
-🔗 [Live Demo](nesimdogdas.com)
-    Admin Panel Bilgileri:
-    E-Posta: test@test.com
-    Şifre: test123
+🔗 [Live Demo](https://nesimdogdas.com)
 
+### 🛡️ **Admin Panel Bilgileri**
+- **[Live Demo](https://nesimdogdas.com/login)**
+- **E-Posta:** `test@test.com`
+- **Şifre:** `test123`
 ---
 
 ## 🛠 **Kullanılan Teknolojiler**
