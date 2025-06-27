@@ -29,6 +29,7 @@ Kullanıcılar blog gönderileri **oluşturabilir**, **düzenleyebilir** ve **si
 - **Blog yazısı oluşturma**
 - **Blog yazısı düzenleme ve silme**
 - **Yorum oluşturma**
+- **Reklam oluşturma**
 - **Gerçek zamanlı veri güncellemesi**
 - **Mobil uyumlu tasarım (Responsive)**
 - **Temiz ve minimal kullanıcı arayüzü**
